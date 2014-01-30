@@ -1,0 +1,13 @@
+text.name {
+    fill: blue;
+    stroke: red;
+}
+
+text.rank {
+    text-align: center;
+    fill: black;
+}
+
+text {
+    font-weight: normal;
+}
